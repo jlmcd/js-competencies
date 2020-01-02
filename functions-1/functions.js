@@ -27,8 +27,8 @@ try {
 
 ///////////////////Problem 2//////////////////
 //Create a function called hi, using a function
-//expression (without ES6). hi should take in a 'name' parameter, and return
-//the string "Hi " plus the name.
+//expression (without using an arrow function). hi should take in a 
+//'name' parameter, and return the string "Hi " plus the name.
 
 //Code here
 
